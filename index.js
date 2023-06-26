@@ -48,7 +48,7 @@ const listarNumeros = (numero) => {
   }
 };
 
-/* listarNumeros(5); */
+listarNumeros(5);
 
 /* ========================EJERCICIO 5======================== */
 const imprimirXveces = (palabra, veces) => {
